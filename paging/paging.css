@@ -1,0 +1,32 @@
+#paging{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    background-color: coral;
+    padding: 5px;
+}
+
+#newDate{
+    background-color: #cccccc;
+}
+
+#everyPag{
+    margin-left: 20px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    margin: 0px;
+}
+
+ul li:hover{
+    border-left: 2px solid dodgerblue;
+    padding-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+*{
+    line-height: 1.6em;
+}
